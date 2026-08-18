@@ -1,0 +1,3 @@
+# Una sola página: el notebook (que ya incluye su portada) es la raíz del libro.
+format: jb-book
+root: eda_bancario
