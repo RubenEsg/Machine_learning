@@ -3,7 +3,7 @@
 **Universidad del Norte · Machine Learning · Entrega 1**
 Martínez Pulido, Valerie · Basto Martínez, Abrahan · Esguerra Fernández, Rubén
 
-📖 **Sitio publicado:** https://rubenesg.github.io/Machine_learning/
+**Sitio publicado:** https://rubenesg.github.io/Machine_learning/
 
 Análisis exploratorio y auditoría de calidad de datos sobre el conjunto público
 [COFINFAD](https://data.mendeley.com/datasets/mhb4zn3258/1) — 48.723 clientes,
